@@ -33,5 +33,7 @@
 </p>
 
 </div>
+  
+  ![snake gif](https://github.com/Lucas2907/Lucas2907/blob/output/github-contribution-grid-snake.svg)
 
           
