@@ -1,7 +1,7 @@
 
  <h3>Olá, eu me chamo Lucas👋</h3> 
 - 🔭 ~Estou trabalhando atualmente em fábrica com inspeção de qualidade...<br>
-- 🌱 Estudando FRONT-END, e interesse em fullstack...
+- 🌱 Estudando FRONT-END, e interesse em fullstack...<br>
 - 😄 Pronouns: ELE/DELE ...
 
 <div style="display: flex; max-width: 800px; margin: auto;">
