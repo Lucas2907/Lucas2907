@@ -3,6 +3,7 @@
 - 🔭 ~Estou trabalhando atualmente em fábrica com inspeção de qualidade...<br>
 - 🌱 Estudando FRONT-END, e interesse em fullstack...<br>
 - 😄 Pronouns: ELE/DELE ...
+<br>
 
 <div style="display: flex; max-width: 800px; margin: auto;">
   <a href="https://github.com/Lucas2907">
