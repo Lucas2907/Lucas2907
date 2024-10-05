@@ -1,7 +1,6 @@
 
  <div align="center">
    <h2> Olá, eu me chamo Lucas👋</h2> 
-  - 🔭 ~Estou trabalhando atualmente como controlador de qualidade...<br>
   - 🌱 Estudando FRONT-END, e interesse em fullstack...<br>
  - 😄 Pronouns: ELE/DELE ...
  </div>
