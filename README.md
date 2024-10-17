@@ -1,4 +1,5 @@
-
+ ![snake gif](https://github.com/Lucas2907/Lucas2907/blob/output/github-contribution-grid-snake.gif)
+ 
  <div align="center">
    <h2> Olá, eu me chamo Lucas👋</h2> 
   - 🌱 Estudando FRONT-END, e interesse em fullstack...<br>
@@ -31,7 +32,6 @@
   <a href="https://www.linkedin.com/in/lucas-pasa/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>&nbsp &nbsp
   <a href="mailto:contatolucaspasa@gmail.com "><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
- ![snake gif](https://github.com/Lucas2907/Lucas2907/blob/output/github-contribution-grid-snake.gif)
 </div>
 
           
