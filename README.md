@@ -30,9 +30,8 @@
   <a href="https://www.instagram.com/lucas_garcia.29/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucas-pasa/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>&nbsp &nbsp
   <a href="mailto:contatolucaspasa@gmail.com "><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
-   ![snake gif](https://github.com/Lucas2907/Lucas2907/blob/output/github-contribution-grid-snake.gif)
 </p>
-
+ ![snake gif](https://github.com/Lucas2907/Lucas2907/blob/output/github-contribution-grid-snake.gif)
 </div>
 
           
