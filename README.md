@@ -1,6 +1,6 @@
 <div align="center">
    <h2> Olá, eu me chamo Lucas👋</h2> 
-   - 🌱 Estudando FRONT-END, e interesse em fullstack...<br>
+   - 🌱 Estudando FRONT-END e BACK-END e interesse em fullstack...<br>
    - 😄 Pronouns: ELE/DELE ...
 </div>
 
