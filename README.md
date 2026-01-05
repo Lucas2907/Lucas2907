@@ -12,7 +12,7 @@
 <img align="center" height="160em" src="https://github-readme-stats-nine-beryl-79.vercel.app/api/top-langs/?username=Lucas2907&layout=compact&langs_count=16&theme=github_dark" " />
 
   </a>
-</di
+</div>
 <div align="center">
   <h3>LEARNING</h3>
   &nbsp;&nbsp;
