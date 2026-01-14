@@ -7,9 +7,9 @@
 <div align="center" style="display: flex; max-width: 800px; margin: auto;">
   <a href="https://github.com/Lucas2907">
    <br>
-   <img align="center" height="160em" src="https://github-readme-stats-nine-beryl-79.vercel.app/ap" />username=Lucas2907&show_icons=true&theme=github_dark" />
-&nbsp;&nbsp;
-<img align="center" height="160em" src="https://github-readme-stats-nine-beryl-79.vercel.app/api/top-langs/?username=Lucas2907&layout=compact&langs_count=16&theme=github_dark" " />
+  <img align="center" height="160em" src="https://github-readme-stats-nine-beryl-79.vercel.app/api?username=Lucas2907&show_icons=true&theme=github_dark" />
+     &nbsp;&nbsp;
+  <img align="center" height="160em" src="https://github-readme-stats-nine-beryl-79.vercel.app/api/top-langs/?username=Lucas2907&layout=compact&langs_count=16&theme=github_dark" />
 
   </a>
 </div>
